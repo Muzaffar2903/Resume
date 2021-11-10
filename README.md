@@ -3,11 +3,12 @@
 21 years old Front-End developer from Tashkent
 
 muzaffar2903@gmail.com
+
 linkedin.com/in/muzaffarazizov
 
 **EXPERIENCE**
 
-Zetsoft Intern - HTML, CSS, Bootstrap, JavaScript
+**Zetsoft Intern** - *HTML, CSS, Bootstrap, JavaScript*
 
 2020 August
 
@@ -17,7 +18,7 @@ Zetsoft Intern - HTML, CSS, Bootstrap, JavaScript
   In this company, we studied while doing real projects. While learning advanced HTML, CSS, I tried 
   to copy the home page of Frilansus.com from web design.
 
- **Co-Learning Center** — *Front-end ReactJs Developer*
+ **Co-Learning Center** — *Front-end Developer Intern*
    
  **2020 October - 2021 January**
 
